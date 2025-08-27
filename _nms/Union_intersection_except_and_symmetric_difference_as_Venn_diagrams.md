@@ -14,4 +14,3 @@ Mapping:
 ---
 <img src="/assets/images/nm/024_2.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/024_3.png" class="ui fluid bordered image">
-<img src="/assets/images/nm/024_4.png" class="ui fluid bordered image">
