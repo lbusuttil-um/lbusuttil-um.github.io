@@ -16,7 +16,7 @@ layout: default
   {% if page.sequence %}
     {% assign sorted_nms = site.nms | where: "sequence", page.sequence | sort_natural: 'Step' %}
     <div>
-      {{page.sequence}} is a sequence consisting of the following 
+      {{page.sequence}} is a sequence consisting of the following
       {{sorted_nms.size}} notional machines:
     </div>
     <div class="ui inverted steps">
@@ -44,8 +44,17 @@ layout: default
       <img class="ui medium rounded bordered image" src="/assets/images/nm/{{ page.image }}"></img>
     </div>
     <div class="ten wide column">
-      <h3>Programming Language</h3>
-      <p>{{ page.ProgrammingParadigm }} / {{ page.ProgrammingLanguage }}</p>
+      {%- assign parad = page.ProgrammingParadigm | default: "" | strip -%}
+      {%- assign lang  = page.ProgrammingLanguage  | default: "" | strip -%}
+      {%- if parad != "" or lang != "" -%}
+        <h3>Programming Language</h3>
+        <p>
+          {%- if parad != "" -%}{{ parad }}{%- endif -%}
+          {%- if parad != "" and lang != "" -%} / {%- endif -%}
+          {%- if lang  != "" -%}{{ lang }}{%- endif -%}
+        </p>
+      {%- endif -%}
+
       <h3>Form</h3>
       <p>{{ page.Form }}</p>
       <h3>Attribution &mdash; Origin / Source</h3>
@@ -56,7 +65,7 @@ layout: default
           <span style="font-weight: bold; font-style: italic;">
             <a href="{{ author.url }}">{{ author.name }}</a>
           </span> &mdash;
-        {% endif %}    
+        {% endif %}
         {{ page.OriginSource }}
       </p>
     </div>
@@ -69,7 +78,7 @@ layout: default
     </div>
   </h2>
   <div class="ui yellow inverted segment">
-    <p>{{ page.ConceptualAdvantage }}</p>    
+    <p>{{ page.ConceptualAdvantage }}</p>
   </div>
 
 
@@ -102,18 +111,16 @@ layout: default
   <p>{{ page.DrawsAttentionTo }}</p>
   {% endif %}
 
-  <h2 class="ui header">
-    <i class="compass icon"></i>
-    <div class="content">
-      Use When
-    </div>
-  </h2>
-  {% assign stripped_use = page.UseWhen | strip_html | strip %}
-  {% if stripped_use == empty %}
-  <div class='ui label'>not captured</div>
-  {% else %}
-  <p>{{ page.UseWhen }}</p>
-  {% endif %}
+  {%- assign usewhen = page.UseWhen | default: "" | strip_html | strip -%}
+  {%- if usewhen != "" -%}
+    <h2 class="ui header">
+      <i class="compass icon"></i>
+      <div class="content">
+        Use When
+      </div>
+    </h2>
+    <p>{{ page.UseWhen }}</p>
+  {%- endif -%}
 
   <h2 class="ui header">
     <i class="dollar sign icon"></i>
