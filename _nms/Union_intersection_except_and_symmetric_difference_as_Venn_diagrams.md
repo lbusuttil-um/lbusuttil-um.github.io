@@ -17,7 +17,7 @@ Mapping:
 
 
 
-### Two stages to TRACS trace
+### 
 
 
 <img src="/assets/images/nm/024_2.png" class="ui fluid bordered image">
