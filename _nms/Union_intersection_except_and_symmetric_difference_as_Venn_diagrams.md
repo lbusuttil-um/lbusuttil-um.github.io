@@ -13,14 +13,8 @@ Mapping:
   "shaded area": "result of the operation"
 ---
 
-Created by Peter Donaldson and Quintin Cutts /
-[PLAN C project](https://trace.dcs.gla.ac.uk/planc/).
 
-{% include paper.html
-   authors="Peter Donaldson and Quintin Cutts"
-   url="https://dl.acm.org/doi/10.1145/3265757.3265776"
-   title="Flexible Low-cost Activities to Develop Novice Code Comprehension Skills in Schools"
-   publication="WiPSCE '19" %}
+
 
 ### Two stages to TRACS trace
 
