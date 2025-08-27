@@ -58,6 +58,10 @@ layout: default
         </p>
       {%- endif -%}
 
+      {%- assign discipline = page.Discipline | default: "Programming" | strip -%}
+      <h3>Discipline</h3>
+      <p>{{ discipline }}</p>
+
       <h3>Form</h3>
       <p>{{ page.Form }}</p>
 
@@ -144,18 +148,16 @@ layout: default
     <p>{{ page.UseWhen }}</p>
   {%- endif -%}
 
-  <h2 class="ui header">
-    <i class="dollar sign icon"></i>
-    <div class="content">
-      Cost
-    </div>
-  </h2>
-  {% assign stripped_cost = page.Cost | strip_html | strip %}
-  {% if stripped_cost == empty %}
-  <div class='ui label'>not captured</div>
-  {% else %}
-  <p>{{ page.Cost }}</p>
-  {% endif %}
+  {%- assign cost_val = page.Cost | default: "" | strip_html | strip -%}
+  {%- if cost_val != "" -%}
+    <h2 class="ui header">
+      <i class="dollar sign icon"></i>
+      <div class="content">
+        Cost
+      </div>
+    </h2>
+    <p>{{ page.Cost }}</p>
+  {%- endif -%}
 
   {% assign stripped_content = content | strip_html | strip %}
   {% if stripped_content != empty %}
