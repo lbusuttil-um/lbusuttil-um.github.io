@@ -16,7 +16,7 @@ layout: default
   {% if page.sequence %}
     {% assign sorted_nms = site.nms | where: "sequence", page.sequence | sort_natural: 'Step' %}
     <div>
-      {{page.sequence}} is a sequence consisting of the following
+      {{page.sequence}} is a sequence consisting of the following 
       {{sorted_nms.size}} notional machines:
     </div>
     <div class="ui inverted steps">
@@ -41,9 +41,12 @@ layout: default
 
   <div class="ui grid">
     <div class="six wide column">
-      <img class="ui medium rounded bordered image" src="/assets/images/nm/{{ page.image }}"></img>
+      {% if page.image %}
+        <img class="ui medium rounded bordered image" src="/assets/images/nm/{{ page.image }}"></img>
+      {% endif %}
     </div>
     <div class="ten wide column">
+
       {%- assign parad = page.ProgrammingParadigm | default: "" | strip -%}
       {%- assign lang  = page.ProgrammingLanguage  | default: "" | strip -%}
       {%- if parad != "" or lang != "" -%}
@@ -57,6 +60,7 @@ layout: default
 
       <h3>Form</h3>
       <p>{{ page.Form }}</p>
+
       <h3>Attribution &mdash; Origin / Source</h3>
       <p>
         Collected by
@@ -65,9 +69,28 @@ layout: default
           <span style="font-weight: bold; font-style: italic;">
             <a href="{{ author.url }}">{{ author.name }}</a>
           </span> &mdash;
-        {% endif %}
+        {% endif %}    
         {{ page.OriginSource }}
       </p>
+
+      {%- assign audience = page.Audience | default: "" | strip_html | strip -%}
+      {%- if audience != "" -%}
+        <h3>Audience</h3>
+        <p>{{ page.Audience }}</p>
+      {%- endif -%}
+
+      {%- assign topic = page.Topic | default: "" | strip_html | strip -%}
+      {%- if topic != "" -%}
+        <h3>Topic</h3>
+        <p>{{ page.Topic }}</p>
+      {%- endif -%}
+
+      {%- assign domain = page.Domain | default: "" | strip_html | strip -%}
+      {%- if domain != "" -%}
+        <h3>Domain</h3>
+        <p>{{ page.Domain }}</p>
+      {%- endif -%}
+
     </div>
   </div>
 
@@ -78,9 +101,8 @@ layout: default
     </div>
   </h2>
   <div class="ui yellow inverted segment">
-    <p>{{ page.ConceptualAdvantage }}</p>
+    <p>{{ page.ConceptualAdvantage }}</p>    
   </div>
-
 
   <h2 class="ui header">
     <i class="table icon"></i>
