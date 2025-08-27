@@ -7,7 +7,7 @@ Topic: SQL Joins
 Domain: CS except Dbs
 Form: Visual Representation
 OriginSource: "Textbook, Beaulieu, A. (2009). Learning SQL: master SQL fundamentals. O'Reilly Media."
-image: "CallStackAsDiagram.jpg"
+image: "024_1.png"
 Mapping:
   "circles": "sets"
   "shaded area": "result of the operation"
