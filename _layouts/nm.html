@@ -46,7 +46,10 @@ layout: default
       {% endif %}
     </div>
     <div class="ten wide column">
-
+      {%- assign discipline = page.Discipline | default: "Programming" | strip -%}
+      <h3>Discipline</h3>
+      <p>{{ discipline }}</p>
+      
       {%- assign parad = page.ProgrammingParadigm | default: "" | strip -%}
       {%- assign lang  = page.ProgrammingLanguage  | default: "" | strip -%}
       {%- if parad != "" or lang != "" -%}
@@ -57,10 +60,6 @@ layout: default
           {%- if lang  != "" -%}{{ lang }}{%- endif -%}
         </p>
       {%- endif -%}
-
-      {%- assign discipline = page.Discipline | default: "Programming" | strip -%}
-      <h3>Discipline</h3>
-      <p>{{ discipline }}</p>
 
       <h3>Form</h3>
       <p>{{ page.Form }}</p>
