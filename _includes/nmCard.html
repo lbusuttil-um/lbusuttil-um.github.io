@@ -1,68 +1,75 @@
 <div class="card">
   
   <a href="{{ nm.url }}" class="image">
-      {% if nm.sequence %}
-      <div class="ui right corner blue label"><i class="layer group icon"></i></div>
-      {% endif %}
-      <img src="/assets/images/nm/{{ nm.image }}">
-    </a>
+    {% if nm.sequence %}
+    <div class="ui right corner blue label"><i class="layer group icon"></i></div>
+    {% endif %}
+    <img src="/assets/images/nm/{{ nm.image }}">
+  </a>
 
-    <div class="content" style="flex-grow: 0">
-      {% if nm.sequence %}
-      <a href="{{ nm.url }}" class="header">{{ nm.sequence }}</a>
-      <a href="{{ nm.url }}" class="header" style='color: #2185d0'>{{ nm.Step }}. {{ nm.StepTitle }}</a>
-      {% else %}
-      <a href="{{ nm.url }}" class="header">{{ nm.title }}</a>
-      {% endif %}
-      <div class="meta">{{ nm.Form }}</div>
-    </div>
-    
-    <div class="extra">
-        <span class="right floated">
-            {{ nm.ProgrammingParadigm }} /
-              {{ nm.ProgrammingLanguage }}
-        </span>
-        <span>
-          Language:
-        </span>
-    </div>
+  <div class="content" style="flex-grow: 0">
+    {% if nm.sequence %}
+    <a href="{{ nm.url }}" class="header">{{ nm.sequence }}</a>
+    <a href="{{ nm.url }}" class="header" style='color: #2185d0'>{{ nm.Step }}. {{ nm.StepTitle }}</a>
+    {% else %}
+    <a href="{{ nm.url }}" class="header">{{ nm.title }}</a>
+    {% endif %}
+    <div class="meta">{{ nm.Form }}</div>
+  </div>
   
-    <div class="extra" style="background-color: #fbbd08!important">
-      <h4 class="ui sub header">Conceptual Advantage</h4>
-      <span>
-        {{ nm.ConceptualAdvantage }}
-      </span>
-    </div>
-    <div class="extra">
-        <h4 class="ui sub header">Draws Attention To</h4>
-      <span>
-        {{ nm.DrawsAttentionTo }}
-      </span>
-    </div>
+  <div class="extra">
+    {%- assign lang = nm.ProgrammingLanguage | to_s | strip -%}
+    {%- assign parad = nm.ProgrammingParadigm | to_s | strip -%}
 
-    <div class="content">
-      <div class="description">
-        <table class="ui compact inverted blue celled selectable table">
-            <tr><th>PL</th><th>NM</th></tr>
-            {% for entry in nm.Mapping %}
-              <tr>
-                <td>{{ entry[0] }}</td>
-                <td>{{ entry[1] }}</td>
-              </tr>
-            {% endfor %}
-        </table>
-      </div>
+    {%- if lang == "" -%}
+      <span class="right floated">Databases</span>
+      <span>Discipline:</span>
+    {%- else -%}
+      <span class="right floated">
+        {%- if parad != "" -%}{{ parad }}{%- endif -%}
+        {%- if parad != "" and lang != "" -%} / {%- endif -%}
+        {{ lang }}
+      </span>
+      <span>Language:</span>
+    {%- endif -%}
+  </div>
+  
+  <div class="extra" style="background-color: #fbbd08!important">
+    <h4 class="ui sub header">Conceptual Advantage</h4>
+    <span>
+      {{ nm.ConceptualAdvantage }}
+    </span>
+  </div>
+  <div class="extra">
+    <h4 class="ui sub header">Draws Attention To</h4>
+    <span>
+      {{ nm.DrawsAttentionTo }}
+    </span>
+  </div>
+
+  <div class="content">
+    <div class="description">
+      <table class="ui compact inverted blue celled selectable table">
+        <tr><th>PL</th><th>NM</th></tr>
+        {% for entry in nm.Mapping %}
+          <tr>
+            <td>{{ entry[0] }}</td>
+            <td>{{ entry[1] }}</td>
+          </tr>
+        {% endfor %}
+      </table>
     </div>
-    
-    <div class="extra">
-        <span>
-          Collected by
-          {% assign author = site.authors | where: 'short_name', nm.author | first %}
-          {% if author %}
-            <span style="font-weight: bold; font-style: italic;">
-              <a href="{{ author.url }}">{{ author.name }}</a>
-            </span>
-          {% endif %}
+  </div>
+  
+  <div class="extra">
+    <span>
+      Collected by
+      {% assign author = site.authors | where: 'short_name', nm.author | first %}
+      {% if author %}
+        <span style="font-weight: bold; font-style: italic;">
+          <a href="{{ author.url }}">{{ author.name }}</a>
         </span>
-    </div>
+      {% endif %}
+    </span>
+  </div>
 </div>
