@@ -46,18 +46,14 @@
       {{ nm.DrawsAttentionTo }}
     </span>
   </div>
- {% assign discipline_check = page.Discipline | default: "Programming" | strip | downcase %}
-   <div class="extra">
-    <h4 class="ui sub header">Check </h4><span>
-      {{discipline_check}}
-    </span>
+
   <div class="content">
     <div class="description">
       <table class="ui compact inverted blue celled selectable table">
-        {%- if discipline_check == "" or discipline_check == "programming" -%}
-    <tr><th>PL</th><th>NM</th></tr>
+        {%- if lang == "" -%}
+        <tr><th>Symbol</th><th>Concept</th></tr>
   {% else %}
-    <tr><th>Symbol</th><th>Concept</th></tr>
+        <tr><th>PL</th><th>NM</th></tr>
   {% endif %}
         {% for entry in nm.Mapping %}
           <tr>
