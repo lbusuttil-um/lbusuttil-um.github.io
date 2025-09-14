@@ -5,7 +5,7 @@ Discipline: Databases
 ConceptualAdvantage: "Draws parallels to processing as done in relational databases."
 DrawsAttentionTo: "How reading from JSON is similar to RDBMS projection"
 Topic: Data storage and indexing
-Domain:Within-Database
+Domain: Within-Database
 Form: Database Analogies
 OriginSource: "Textbook Hellerstein, J. M., & Stonebraker, M. (2005). Readings in Database Systems. 4 ed. MIT Press."
 image: "206.png"
