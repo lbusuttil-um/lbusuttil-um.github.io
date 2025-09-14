@@ -15,5 +15,5 @@ Mapping:
 
 ---
 ### Text
-<p>An entity in some ways resembles an “object” in the sense of object-oriented programming, likeways an entity set resembles a class of objects.</p>
-<p>There is a significant resemblance between “isa” in the E/R model and subclasses in object-oriented languages</p>
+<p>An entity in some ways resembles an â€œobjectâ€ in the sense of object-oriented programming, likeways an entity set resembles a class of objects.</p>
+<p>There is a significant resemblance between â€œisaâ€ in the E/R model and subclasses in object-oriented languages</p>
