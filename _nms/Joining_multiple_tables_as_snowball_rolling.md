@@ -5,7 +5,7 @@ Discipline: Databases
 ConceptualAdvantage: "Helps readers understand the mechanism of joining more than two tables"
 DrawsAttentionTo: "The fact that each additional table is joined with the intermediate resulting table, just like the snowball gets bigger when rolling down the hill."
 Topic: Data storage and indexing
-Domain:Within-Database
+Domain: Within-Database
 Form: Database Analogies
 OriginSource: "Textbook Beaulieu, A. (2009). Learning SQL. 2 ed. O'Reilly."
 image: "026.png"
