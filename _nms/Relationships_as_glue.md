@@ -10,7 +10,7 @@ Form: Database Analogies
 OriginSource: "Textbook Hoffer, J. A., Topi, H., & Ramesh, V. (2014). Essentials of Database Management. Prentice Hall Press."
 image: "388.png"
 Mapping:
-Relationship: glue among entities
+  Relationship : glue among entities
 
 ---
 ### Text
