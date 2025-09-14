@@ -11,7 +11,7 @@ OriginSource: "Textbook Hoffer, J. A., Topi, H., & Ramesh, V. (2014). Essentials
 image: "388.png"
 Mapping:
   Relationship : glue among entities
-
+  
 ---
 ### Text
 <p>Relationships are the glue that holds together the various components of an E-R model.</p>
