@@ -12,6 +12,6 @@ OriginSource: "Coronel, C., & Morris, S. (2018 , January). Database Systems. 13 
 image: "086.png"
 Mapping:
   Cube :  the sales facts
- Circles :  various dimensions
- Arrows :  structural relationships between the dimensions and the facts
+  Circles :  various dimensions
+  Arrows :  structural relationships between the dimensions and the facts
 ---
