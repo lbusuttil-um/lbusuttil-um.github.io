@@ -9,7 +9,7 @@ Domain: Within-Database
 Form: Visual Representation
 OriginSource: "Hoffer, J. A., Ramesh, V., & Topi, H. (2015). Modern database management. 12 ed. Pearson."
 image: "188.png"
-Mapping:Mapping:
+Mapping:
   circles :  highlighting the "linking values" between main and subqueries
   arrows :  (1) the "link" between values; (2) draws attention to relevant fields
 ---
