@@ -7,7 +7,7 @@ DrawsAttentionTo: "Facts vs. Dimensions
  The multi-dimensional characteristics of the data"
 Topic: IR and data mining
 Domain: 
-Form: Visual representations
+Form: Visual Representation
 OriginSource: "Coronel, C., & Morris, S. (2018 , January). Database Systems. 13 ed. Mason, OH: CENGAGE Learning Custom Publishing."
 image: "086.png"
 Mapping:
