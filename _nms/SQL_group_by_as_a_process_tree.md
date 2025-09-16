@@ -8,7 +8,12 @@ Topic: Query languages (basic)
 Domain: 
 Form: Visual Representation
 OriginSource: "Lecture Notes"
-image: "007_1.png,007_2.png,007_3.png,007_4.png,007_5.png"
+image: "007_1.png"
 Mapping:
   group of rows :  rows with the same attribute value
 ---
+### Images
+<img src="/assets/images/nm/007_2.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/007_3.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/007_4.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/007_5.png" class="ui fluid bordered image">

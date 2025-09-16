@@ -8,8 +8,13 @@ Topic: Query languages (basic)
 Domain: Computer Science (except DB)
 Form: Visual Representation
 OriginSource: "Lecture Notes"
-image: "437_a.png,437_b.png,437_c.png,437_d.png,437_e.png"
+image: "437_a.png"
 Mapping:
   Circle A - Tuples in relation A
   Circle B - Tuples in relation B
 ---
+### Images
+<img src="/assets/images/nm/437_b.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/437_c.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/437_d.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/437_e.png" class="ui fluid bordered image">

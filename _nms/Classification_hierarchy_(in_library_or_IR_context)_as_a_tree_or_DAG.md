@@ -8,8 +8,10 @@ Topic: IR and data mining
 Domain: 
 Form: Visual Representation
 OriginSource: "Silberschatz, A., Korth, H. F., & Sudarshan, S. (2011). Database system concepts. McGraw-Hill Education."
-image: "245a.png,245b.png"
+image: "245a.png"
 Mapping:
   nodes :  classifications
   edges :  (directed) relationships between classifications
 ---
+### Images
+<img src="/assets/images/nm/245b.png" class="ui fluid bordered image">

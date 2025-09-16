@@ -8,7 +8,10 @@ Topic: Query languages (advanced)
 Domain: Within-Database
 Form: Visual Representation
 OriginSource: "Lecture Notes"
-image: "445-a.png,445-b.png,445-c.png"
+image: "445-a.png"
 Mapping:
   text :  meaning of subqueries
 ---
+### Images
+<img src="/assets/images/nm/445-b.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/445-c.png" class="ui fluid bordered image">

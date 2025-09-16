@@ -8,10 +8,13 @@ Topic: IR and data mining
 Domain: 
 Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
-image: "98_1.png,98_2.png,98_3.png"
+image: "98_1.png"
 Mapping:
   raw data :  point
   matrix :  2dimensional space
   cube :  3dimesional space
   axes :  relevant characteristics of data
 ---
+### Images
+<img src="/assets/images/nm/98_2.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/98_3.png" class="ui fluid bordered image">

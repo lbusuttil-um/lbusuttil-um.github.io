@@ -8,9 +8,11 @@ Topic: Query languages (basic)
 Domain: 
 Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
-image: "103_1.png,103_2.png"
+image: "103_1.png"
 Mapping:
   Root node :  the overall query
   Leaf nodes :  the relations involved
   Intermediate nodes :  the RA operations
 ---
+### Images
+<img src="/assets/images/nm/103_2.png" class="ui fluid bordered image">

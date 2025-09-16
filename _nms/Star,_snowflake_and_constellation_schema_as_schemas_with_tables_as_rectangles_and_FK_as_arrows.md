@@ -8,8 +8,11 @@ Topic: IR and data mining
 Domain: 
 Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
-image: "101_1.png,101_2.png,101_3.png"
+image: "101_1.png"
 Mapping:
   (fact and dimension) table  :  Rectangle
   foreign key :  Arrow from referencing to referenced
 ---
+### Images
+<img src="/assets/images/nm/101_2.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/101_3.png" class="ui fluid bordered image">

@@ -8,7 +8,10 @@ Topic: Query languages (basic)
 Domain: 
 Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
-image: "102_1.png,102_2.png,102_3.png"
+image: "102_1.png"
 Mapping:
   Brackets and arrows indicate the corresponding records in the input and output datasets
 ---
+### Images
+<img src="/assets/images/nm/102_2.png" class="ui fluid bordered image">
+<img src="/assets/images/nm/102_3.png" class="ui fluid bordered image">

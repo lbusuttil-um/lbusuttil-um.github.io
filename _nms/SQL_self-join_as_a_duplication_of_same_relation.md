@@ -8,7 +8,9 @@ Topic: Query languages (basic)
 Domain: 
 Form: Visual Representation
 OriginSource: "Lecture Notes"
-image: "006_1.png,006_2.png"
+image: "006_1.png"
 Mapping:
   arrows :  join among rows
 ---
+### Images
+<img src="/assets/images/nm/006_2.png" class="ui fluid bordered image">

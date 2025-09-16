@@ -8,9 +8,11 @@ Topic: IR and data mining
 Domain: 
 Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
-image: "99_1.png,99_2.png"
+image: "99_1.png"
 Mapping:
   dimensions :  axes
   axis outer legend :  coarser granularity value
   axis inner legend :  finer granularity value
 ---
+### Images
+<img src="/assets/images/nm/99_2.png" class="ui fluid bordered image">
