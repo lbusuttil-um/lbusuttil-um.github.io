@@ -11,3 +11,5 @@ OriginSource: "Date, C. J. (2003). An Introduction to Database Systems. 8 ed. Pe
 image: "391.png"
 Mapping:
 ---
+### Alternate Versions
+<a href="/nms/Illustration_of_division_as_a_diagram.html">Illustration_of_division_as_a_diagram</a>

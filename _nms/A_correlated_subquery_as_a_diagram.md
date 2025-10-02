@@ -13,3 +13,5 @@ Mapping:
   circles :  highlighting the "linking values" between main and subqueries
   arrows :  (1) the "link" between values; (2) draws attention to relevant fields
 ---
+### Alternate Versions
+<a href="/nms/Correlated_subquery_execution_as_sequence_of_steps.html">Correlated_subquery_execution_as_sequence_of_steps [Main]</a>

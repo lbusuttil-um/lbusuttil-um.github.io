@@ -13,3 +13,5 @@ Mapping:
   fact table and dimension tables :  rectangle
   PK-FK link between tables :   line
 ---
+### Alternate Versions
+<a href="/nms/Star_snowflake_and_constellation_schema_as_schemas_with_tables_as_rectangles_and_FK_as_arrows.html">Star_snowflake_and_constellation_schema_as_schemas_with_tables_as_rectangles_and_FK_as_arrows [Main]</a>

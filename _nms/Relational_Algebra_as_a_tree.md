@@ -11,3 +11,7 @@ OriginSource: "Garcia-Molina, H., Ullman, J., & Widom, J. (2009). Database Syste
 image: "370.png"
 Mapping:
 ---
+### Alternate Versions
+<a href="/nms/Relational_algebra_expression_as_a_tree.html">Relational_algebra_expression_as_a_tree [Main]</a>
+<a href="/nms/Query_tree_as_a_diagram.html">Query_tree_as_a_diagram</a>
+<a href="/nms/Query_tree_as_a_diagram_1.html">Query_tree_as_a_diagram_1</a>

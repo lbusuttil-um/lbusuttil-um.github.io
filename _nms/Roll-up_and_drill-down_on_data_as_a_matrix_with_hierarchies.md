@@ -16,3 +16,6 @@ Mapping:
 ---
 ### Images
 <img src="/assets/images/nm/99_2.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/Multiple_dimension_hierarchies_in_a_sales_dataset_as_a_diagram.html">Multiple_dimension_hierarchies_in_a_sales_dataset_as_a_diagram [Main]</a>

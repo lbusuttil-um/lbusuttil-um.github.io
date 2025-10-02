@@ -14,3 +14,6 @@ Mapping:
 ---
 ### Images
 <img src="/assets/images/nm/006_2.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/Self-join_as_a_picture.html">Self-join_as_a_picture</a>

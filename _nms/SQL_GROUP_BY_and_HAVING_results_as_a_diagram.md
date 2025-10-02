@@ -15,3 +15,6 @@ Mapping:
 ### Images
 <img src="/assets/images/nm/102_2.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/102_3.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/HAVING_as_a_picture.html">HAVING_as_a_picture [Main]</a>

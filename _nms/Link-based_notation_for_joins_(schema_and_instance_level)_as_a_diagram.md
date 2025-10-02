@@ -13,3 +13,5 @@ Mapping:
   edge :  match between attributes in join condition
   edge label :  match operator
 ---
+### Alternate Versions
+<a href="/nms/Joining_multiple_tables_as_a_diagram.html">Joining_multiple_tables_as_a_diagram [Main]</a>

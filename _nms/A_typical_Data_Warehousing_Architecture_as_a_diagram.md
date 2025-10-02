@@ -12,3 +12,6 @@ image: "205.png"
 Mapping:
   Each distinct icon :  a different component as shown in the captions in the diagram
 ---
+### Alternate Versions
+<a href="/nms/OLAP_architecture_as_a_diagram.html">OLAP_architecture_as_a_diagram [Main]</a>
+<a href="/nms/Data-warehouse_architecture_as_a_diagram.html">Data-warehouse_architecture_as_a_diagram</a>

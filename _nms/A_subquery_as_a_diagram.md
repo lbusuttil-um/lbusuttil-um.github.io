@@ -13,3 +13,5 @@ Mapping:
   oval :  set of row/instances
   labels inside ovals or associated to ovals by arrows: description/qualification of these sets of instances
 ---
+### Alternate Versions
+<a href="/nms/Subquery_as_a_filter_(Venn-diagram_notation).html">Subquery_as_a_filter_(Venn-diagram_notation) [Main]</a>

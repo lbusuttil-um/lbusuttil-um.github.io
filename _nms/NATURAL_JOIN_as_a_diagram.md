@@ -14,3 +14,5 @@ Mapping:
   Join attributes :  oval
   Non matching tuple :  highlighted arrow
 ---
+### Alternate Versions
+<a href="/nms/Visual_representation_of_a_simple_equi-join_as_a_diagram.html">Visual_representation_of_a_simple_equi-join_as_a_diagram [Main]</a>

@@ -15,3 +15,6 @@ Mapping:
 ### Images
 <img src="/assets/images/nm/446-b.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/446-c.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/NOT_EXISTS_as_a_picture.html">NOT_EXISTS_as_a_picture</a>

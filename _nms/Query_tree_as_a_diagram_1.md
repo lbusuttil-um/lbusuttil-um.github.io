@@ -14,3 +14,7 @@ Mapping:
   Leaf nodes :  the relations involved
   Intermediate nodes :  the RA operations
 ---
+### Alternate Versions
+<a href="/nms/Relational_algebra_expression_as_a_tree.html">Relational_algebra_expression_as_a_tree [Main]</a>
+<a href="/nms/Query_tree_as_a_diagram.html">Query_tree_as_a_diagram</a>
+<a href="/nms/Relational_Algebra_as_a_tree.html">Relational_Algebra_as_a_tree</a>

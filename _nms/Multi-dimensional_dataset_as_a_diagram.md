@@ -14,3 +14,8 @@ Mapping:
   dice :  each sales record
   cube :  the whole sales dataset
 ---
+### Alternate Versions
+<a href="/nms/Multidimensional_data_as_a_matrixcube.html">Multidimensional_data_as_a_matrixcube [Main]</a>
+<a href="/nms/A_simple_star_schema_as_a_diagram.html">A_simple_star_schema_as_a_diagram</a>
+<a href="/nms/Multidimensional_data_as_a_diagram.html">Multidimensional_data_as_a_diagram</a>
+<a href="/nms/Data_aggregation_as_a_diagram.html">Data_aggregation_as_a_diagram</a>

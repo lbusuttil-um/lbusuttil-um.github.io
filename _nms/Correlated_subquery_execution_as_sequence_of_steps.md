@@ -13,3 +13,5 @@ Mapping:
   link (arrow) between a tuple content of a table and the result of the correlated subquery for that tuple
   numbers of steps in the execution
 ---
+### Alternate Versions
+<a href="/nms/A_correlated_subquery_as_a_diagram.html">A_correlated_subquery_as_a_diagram</a>

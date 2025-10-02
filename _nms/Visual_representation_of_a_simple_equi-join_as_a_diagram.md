@@ -15,3 +15,5 @@ Mapping:
   circled portions within the stripes :  specific attribute values in those rows
   double-sided arrow :  equi-join condition
 ---
+### Alternate Versions
+<a href="/nms/NATURAL_JOIN_as_a_diagram.html">NATURAL_JOIN_as_a_diagram</a>

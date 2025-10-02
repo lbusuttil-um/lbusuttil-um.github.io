@@ -18,3 +18,7 @@ Mapping:
 <img src="/assets/images/nm/437_c.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/437_d.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/437_e.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/different_join_types_as_Venn_diagrams.html">different_join_types_as_Venn_diagrams [Main]</a>
+<a href="/nms/different_join_types_as_Venn_diagrams_1.html">different_join_types_as_Venn_diagrams_1</a>

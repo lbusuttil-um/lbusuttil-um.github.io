@@ -13,3 +13,5 @@ Mapping:
   oval :  set of row/instances
   labels inside ovals or associated to ovals by arrows: description/qualification of these sets of instances
 ---
+### Alternate Versions
+<a href="/nms/A_subquery_as_a_diagram.html">A_subquery_as_a_diagram</a>

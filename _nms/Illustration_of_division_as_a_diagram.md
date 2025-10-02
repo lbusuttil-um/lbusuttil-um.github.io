@@ -11,3 +11,5 @@ OriginSource: "Ramakrishnan, R., & Gehrke, J. (2002). Database management system
 image: "394.png"
 Mapping:
 ---
+### Alternate Versions
+<a href="/nms/Division_examples_as_a_diagram.html">Division_examples_as_a_diagram [Main]</a>

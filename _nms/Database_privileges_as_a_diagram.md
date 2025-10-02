@@ -18,3 +18,7 @@ asterisk :  grant option
 <img src="/assets/images/nm/138b.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/138c.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/138d.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/GRANT_and_REVOKE_process_as_a_diagram.html">GRANT_and_REVOKE_process_as_a_diagram</a>
+<a href="/nms/Database_privileges_as_a_diagram_1.html">Database_privileges_as_a_diagram_1</a>

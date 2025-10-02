@@ -12,3 +12,5 @@ image: "089.png"
 Mapping:
   node in the hierarchy :  a specific level of data granularity
 ---
+### Alternate Versions
+<a href="/nms/Roll-up_and_drill-down_on_data_as_a_matrix_with_hierarchies.html">Roll-up_and_drill-down_on_data_as_a_matrix_with_hierarchies</a>

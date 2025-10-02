@@ -14,3 +14,8 @@ Mapping:
   axes :  relevant characteristics of data
   partitions :  aggregated data
 ---
+### Alternate Versions
+<a href="/nms/Multidimensional_data_as_a_matrixcube.html">Multidimensional_data_as_a_matrixcube [Main]</a>
+<a href="/nms/A_simple_star_schema_as_a_diagram.html">A_simple_star_schema_as_a_diagram</a>
+<a href="/nms/Multidimensional_data_as_a_diagram.html">Multidimensional_data_as_a_diagram</a>
+<a href="/nms/Multi-dimensional_dataset_as_a_diagram.html">Multi-dimensional_dataset_as_a_diagram</a>

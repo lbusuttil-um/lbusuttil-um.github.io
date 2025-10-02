@@ -16,3 +16,8 @@ Mapping:
 ---
 ### Images
 <img src="/assets/images/nm/103_2.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/Relational_algebra_expression_as_a_tree.html">Relational_algebra_expression_as_a_tree [Main]</a>
+<a href="/nms/Relational_Algebra_as_a_tree.html">Relational_Algebra_as_a_tree</a>
+<a href="/nms/Query_tree_as_a_diagram_1.html">Query_tree_as_a_diagram_1</a>

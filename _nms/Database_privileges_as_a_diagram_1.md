@@ -1,6 +1,6 @@
 ---
 title: "Database privileges as a diagram"
-author: craig
+author: "giovanna-guerrini"
 Discipline: Databases
 ConceptualAdvantage: "Visualizes the relationships grant-to between users as a graph"
 DrawsAttentionTo: "The relation on users by granting privileges, the fact that a privilege is owned by a user if there is a path from the DBA to the user"
@@ -14,6 +14,5 @@ Mapping:
   arc :  privilege granted
 ---
 ### Alternate Versions
-<a href="/nms/Database_privileges_as_a_diagram.html"> Database_privileges_as_a_diagram [Root]</a>
-
-<a href="/nms/GRANT_and_REVOKE_process_as_a_diagram.html"> GRANT_and_REVOKE_process_as_a_diagram </a>
+<a href="/nms/Database_privileges_as_a_diagram.html">Database_privileges_as_a_diagram [Main]</a>
+<a href="/nms/GRANT_and_REVOKE_process_as_a_diagram.html">GRANT_and_REVOKE_process_as_a_diagram</a>

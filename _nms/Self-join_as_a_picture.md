@@ -16,3 +16,6 @@ Mapping:
 <img src="/assets/images/nm/282-b.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/282-c.png" class="ui fluid bordered image">
 <img src="/assets/images/nm/282-d.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/SQL_self-join_as_a_duplication_of_same_relation.html">SQL_self-join_as_a_duplication_of_same_relation [Main]</a>

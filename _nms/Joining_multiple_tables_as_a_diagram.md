@@ -15,3 +15,6 @@ Mapping:
 ---
 ### Images
 <img src="/assets/images/nm/144-b.png" class="ui fluid bordered image">
+
+### Alternate Versions
+<a href="/nms/Link-based_notation_for_joins_(schema_and_instance_level)_as_a_diagram.html">Link-based_notation_for_joins_(schema_and_instance_level)_as_a_diagram</a>
