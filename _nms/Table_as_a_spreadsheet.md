@@ -6,7 +6,7 @@ ConceptualAdvantage: "brings similarity with the familiar concept of spreadsheet
 DrawsAttentionTo: "the row/column structure"
 Topic: Conceptual modeling
 Domain: Computer Science (except DB)
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Casteel, J. (2015 , September). Oracle 12c. 3 ed. Mason, OH: CENGAGE Learning Custom Publishing."
 image: "395.png"
 Mapping:

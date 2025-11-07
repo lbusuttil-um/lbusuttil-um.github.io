@@ -6,7 +6,7 @@ ConceptualAdvantage: "Helps readers get a high-level idea of what indexing is an
 DrawsAttentionTo: "The advantage of indexing in speeding up queries"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "DeBarros, A. (2018). Practical SQL: A Beginner's Guide to Storytelling with Data. USA: No Starch Press."
 image: "97.png"
 Mapping:

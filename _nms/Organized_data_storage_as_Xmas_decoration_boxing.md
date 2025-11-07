@@ -6,7 +6,7 @@ ConceptualAdvantage: "helps students understand what data clustering and queryin
 DrawsAttentionTo: "Efficiency if access can be predetermined, flexibility for unanticipated access"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "454.png"
 Mapping:

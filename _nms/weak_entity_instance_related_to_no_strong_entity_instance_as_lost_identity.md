@@ -6,7 +6,7 @@ ConceptualAdvantage: "helps students understanding the role of external/mixed id
 DrawsAttentionTo: "how cardinality constraints and external/mixed identifiers for weak entities are related (case of optional participation to identifying relationship)"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "462.png"
 Mapping:

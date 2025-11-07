@@ -6,7 +6,7 @@ ConceptualAdvantage: "Explains each step of the DB design methodology with a fam
 DrawsAttentionTo: "The steps of a DB design methodology"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "#N/A"
 image: "450.png"
 Mapping:

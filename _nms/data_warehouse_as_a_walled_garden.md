@@ -6,7 +6,7 @@ ConceptualAdvantage: "Evokes a visual of how clean and curated the data is"
 DrawsAttentionTo: "Highlights how clean data is important for traditional systems, but not for MapReduce systems."
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Hellerstein, J. M., & Stonebraker, M. (2005). Readings in Database Systems. 4 ed. MIT Press."
 image: "213.png"
 Mapping:

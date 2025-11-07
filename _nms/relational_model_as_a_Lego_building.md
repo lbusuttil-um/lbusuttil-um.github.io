@@ -6,7 +6,7 @@ ConceptualAdvantage: "Highlights the fact that relational models consist of only
 DrawsAttentionTo: "Relational models consist of relations only"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "269.png"
 Mapping:

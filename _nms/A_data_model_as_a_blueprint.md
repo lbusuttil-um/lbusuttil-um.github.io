@@ -6,7 +6,7 @@ ConceptualAdvantage: "focus on structure"
 DrawsAttentionTo: "abstraction"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
 image: "324.png"
 Mapping:

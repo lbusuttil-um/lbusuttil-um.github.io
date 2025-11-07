@@ -7,7 +7,7 @@ DrawsAttentionTo: "An instance of the entity might or might not participate to t
 A instance of the relationship always requires one instance of each related entity"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "459.png"
 Mapping:

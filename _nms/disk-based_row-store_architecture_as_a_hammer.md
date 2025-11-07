@@ -6,7 +6,7 @@ ConceptualAdvantage: "Draw on the law of the instrument: \"it is tempting, if th
 DrawsAttentionTo: "The (previous) omnipresence of disk-based row-stores as a storage solution"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Hellerstein, J. M., & Stonebraker, M. (2005). Readings in Database Systems. 4 ed. MIT Press."
 image: "210.png"
 Mapping:

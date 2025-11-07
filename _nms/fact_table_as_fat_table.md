@@ -6,7 +6,7 @@ ConceptualAdvantage: "The concept of a 'fat table' conjures an anthropomorphic i
 DrawsAttentionTo: "How tables in a star schema can get bigger than our normal conception of 'big'."
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Hellerstein, J. M., & Stonebraker, M. (2005). Readings in Database Systems. 4 ed. MIT Press."
 image: "211.png"
 Mapping:

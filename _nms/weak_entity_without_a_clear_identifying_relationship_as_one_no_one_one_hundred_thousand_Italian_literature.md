@@ -6,7 +6,7 @@ ConceptualAdvantage: "helps user understanding the role of external/mixed identi
 DrawsAttentionTo: "how cardinality constraints and external/mixed identifiers for weak entities are related (should be single and mandatory)"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "463.png"
 Mapping:

@@ -6,7 +6,7 @@ ConceptualAdvantage: "it clarifies the purpose and value of data modelling"
 DrawsAttentionTo: "importance of conceptual design (data model) preceding physical implementation, shows the potential for high costs and time delays if design flaws are discovered late in the development lifecycle"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
 image: "311.png"
 Mapping:

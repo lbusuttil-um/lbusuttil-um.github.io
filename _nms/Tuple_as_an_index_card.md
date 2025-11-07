@@ -6,7 +6,7 @@ ConceptualAdvantage: "(supposed) familiarity of index cards"
 DrawsAttentionTo: "How each tuple carries its own (independent) set of data"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "417.png"
 Mapping:

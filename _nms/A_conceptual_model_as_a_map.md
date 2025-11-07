@@ -6,7 +6,7 @@ ConceptualAdvantage: "Illustrates the purpose of developing a conceptual model."
 DrawsAttentionTo: "The purpose of modeling"
 Topic: Conceptual modeling
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "268.png"
 Mapping:

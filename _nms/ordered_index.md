@@ -6,7 +6,7 @@ ConceptualAdvantage: "familiar concept (book index)"
 DrawsAttentionTo: "ease of retrieval/indentification"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
 image: "362.png"
 Mapping:

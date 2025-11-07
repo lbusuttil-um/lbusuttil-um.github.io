@@ -6,7 +6,7 @@ ConceptualAdvantage: "helps students understand that a careful modelling can sav
 DrawsAttentionTo: "motivations for learning data modelling, data structuring, indexing"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Lecture Notes"
 image: "455.png"
 Mapping:

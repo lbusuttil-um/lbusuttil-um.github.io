@@ -6,7 +6,7 @@ ConceptualAdvantage: "relates to real world. Dated example."
 DrawsAttentionTo: "how indexes are used"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Hoffer, J. A., Ramesh, V., & Topi, H. (2015). Modern database management. 12 ed. Pearson."
 image: "413.png"
 Mapping:

@@ -6,7 +6,7 @@ ConceptualAdvantage: "reduce data redundancy and eliminate modification anomalie
 DrawsAttentionTo: "highlights the design principle of decomposition"
 Topic: Design theory and normalization
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
 image: "309.png"
 Mapping:

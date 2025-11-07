@@ -8,7 +8,7 @@ Note: this is dated for new students"
 DrawsAttentionTo: "what an index is used for"
 Topic: Data storage and indexing
 Domain: Anything else
-Form: Analogies
+Form: Database Analogies
 OriginSource: "Hoffer, J. A., Ramesh, V., & Topi, H. (2015). Modern database management. 12 ed. Pearson."
 image: "193.png"
 Mapping:
