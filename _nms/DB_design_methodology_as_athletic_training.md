@@ -15,4 +15,5 @@ Mapping:
   physical design :  speed training
 ---
 ### Text
-<p>The DB design methodology is like athletic training</p>
+<p>The DB design methodology is like athletic training
+</p>

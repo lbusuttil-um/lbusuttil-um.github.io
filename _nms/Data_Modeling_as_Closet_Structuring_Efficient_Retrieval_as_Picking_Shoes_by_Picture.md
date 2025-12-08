@@ -8,7 +8,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "455.svg"
+image: "455.png"
 Mapping:
   resources (data) :  shoes
   selective data access :  finding a pair of shoes
