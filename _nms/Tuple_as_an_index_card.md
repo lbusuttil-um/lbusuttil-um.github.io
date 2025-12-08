@@ -19,4 +19,4 @@ physical design :  how do we write the context on the card
 ### Text
 <p>[the relational model]'s really like a collection of index cards (includes a little image of a filing cabinet with an open drawer)</p>
 ### Alternate Versions
-<a href="/nms/database_table_index_as_a_card_catalog_in_a_library.html"</a>
+<a href="/nms/database_table_index_as_a_card_catalog_in_a_library.html">Database table index as a card catalog in a library</a>

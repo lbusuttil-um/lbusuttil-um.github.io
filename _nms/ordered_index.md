@@ -15,4 +15,4 @@ Mapping:
 ### Text
 <p>"... The idea behind an ordered index is similar to that behind the index used in a textbook, ..."</p>
 ### Alternate Versions
-<a href="/nms/Database_indexing_as_a_book's_index.html</a>
+<a href="/nms/Database_indexing_as_a_book's_index.html">Database indexing as a book's index</a>
