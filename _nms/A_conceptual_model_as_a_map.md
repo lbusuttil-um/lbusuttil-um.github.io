@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "268.png"
+image: "268.svg"
 Mapping:
   model :  map (abstraction of the real world)
 ---
