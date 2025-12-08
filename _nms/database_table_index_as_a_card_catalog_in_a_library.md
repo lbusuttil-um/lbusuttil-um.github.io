@@ -19,3 +19,5 @@ Mapping:
 <p>"Like a card
 catalog in a library, an index is a table that is used to determine in a file the loca-
 tion of records that satisfy some condition."</p>
+### Alternate Versions
+<a href="/nms/Tuple_as_an_index_card.html</a>

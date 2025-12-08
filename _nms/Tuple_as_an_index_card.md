@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "417.png"
+image: "193.jpg"
 Mapping:
   relational database :  filing cabinet
 table :  drawer of index cards
@@ -18,3 +18,5 @@ physical design :  how do we write the context on the card
 ---
 ### Text
 <p>[the relational model]'s really like a collection of index cards (includes a little image of a filing cabinet with an open drawer)</p>
+### Alternate Versions
+<a href="/nms/database_table_index_as_a_card_catalog_in_a_library.html</a>
