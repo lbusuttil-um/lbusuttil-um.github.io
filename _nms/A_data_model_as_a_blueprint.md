@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
-image: "324.png"
+image: "324.svg"
 Mapping:
   tables mappes to rooms in a house/dorm
 ---

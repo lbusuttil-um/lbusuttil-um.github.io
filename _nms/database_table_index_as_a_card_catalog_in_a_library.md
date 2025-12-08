@@ -10,7 +10,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Hoffer, J. A., Ramesh, V., & Topi, H. (2015). Modern database management. 12 ed. Pearson."
-image: "193.png"
+image: "193.jpg"
 Mapping:
   index :  card catalog
   file/entry in file :  book or other resource

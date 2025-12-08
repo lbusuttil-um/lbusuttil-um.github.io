@@ -8,7 +8,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "DeBarros, A. (2018). Practical SQL: A Beginner's Guide to Storytelling with Data. USA: No Starch Press."
-image: "97.png"
+image: "97.jpg"
 Mapping:
   Database table indexing :  a book's index
 ---

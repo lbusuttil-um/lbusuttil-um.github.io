@@ -8,7 +8,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Beaulieu, A. (2009). Learning SQL. 2 ed. O'Reilly."
-image: "16.png"
+image: "16.jpg"
 Mapping:
   Database :  Telephone Book
 ---

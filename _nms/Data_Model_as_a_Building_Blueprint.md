@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
-image: "311.png"
+image: "311.jpg"
 Mapping:
   Data Model :  Blueprint
   Database :  Constructed Building
