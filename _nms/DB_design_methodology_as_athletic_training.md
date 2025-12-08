@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "#N/A"
-image: "450.png"
+image: "450.svg"
 Mapping:
   conceptual design :  physical fitness
   logical design :  strenght training

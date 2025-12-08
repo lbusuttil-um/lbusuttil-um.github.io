@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "462.png"
+image: "462.jpg"
 Mapping:
   weak entity instance :  person (Jason Bourne)
   identifier :  person's identity

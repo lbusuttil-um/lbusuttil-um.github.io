@@ -8,7 +8,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "454.png"
+image: "454.jpg"
 Mapping:
   Data Clustering / Locality of Reference (efficiency) :  All Xmas decorations in the same box since they will be needed again at the same time (next Xmas)
   Query Flexibility :   Off-Season Ornament Hunting (I just need a red bauble and I am still able to get it) [could be related to indexing if it can be anticipated]

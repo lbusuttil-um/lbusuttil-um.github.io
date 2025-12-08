@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "461.png"
+image: "461.jpg"
 Mapping:
   weak entity instance :  person (Mr Robot)
   identifier :  person's identity

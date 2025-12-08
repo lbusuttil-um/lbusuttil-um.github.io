@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "269.png"
+image: "269.jpg"
 Mapping:
   Lego bricks :  relations
 ---

@@ -8,7 +8,7 @@ Topic: Data storage and indexing
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Hellerstein, J. M., & Stonebraker, M. (2005). Readings in Database Systems. 4 ed. MIT Press."
-image: "210.png"
+image: "210.svg"
 Mapping:
   disk-based row-store architecture - hammer
   data requests - nail

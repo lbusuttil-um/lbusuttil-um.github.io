@@ -9,7 +9,7 @@ Topic: Conceptual modeling
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Lecture Notes"
-image: "459.png"
+image: "459.jpg"
 Mapping:
   relationship instance :  table
   entity instance :  leg

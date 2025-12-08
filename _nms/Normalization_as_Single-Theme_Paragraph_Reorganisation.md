@@ -8,7 +8,7 @@ Topic: Design theory and normalization
 Domain: Anything else
 Form: Database Analogies
 OriginSource: "Kroenke, D., & Auer, D. (2016). Database Processing Fundamentals, Design, and Implementation. 14 ed. Pearson."
-image: "309.png"
+image: "309.svg"
 Mapping:
   Database Table :  Paragraph
   Data "Themes" :  Paragraph Themes

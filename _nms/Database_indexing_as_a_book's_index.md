@@ -15,3 +15,5 @@ Mapping:
 ### Text
 <p>"In the same way that a book’s index helps you find information more quickly, you can speed up queries by adding an index to one or more
  columns."</p>
+### Alternate Versions
+<a href="/nms/ordered_index.html</a>

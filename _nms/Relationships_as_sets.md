@@ -6,7 +6,7 @@ ConceptualAdvantage: "shows visually what is a relationship and that the instanc
 DrawsAttentionTo: "what an instance of a relationship is"
 Topic: Conceptual modeling
 Domain: Math
-Form: Database Analogies
+Form: Visual Representation
 OriginSource: "Elmasri, R., & Navathe, S. B. (2015). Fundamentals of Database Systems. 7 ed. Addison-Wesley."
 image: "365.png"
 Mapping:
