@@ -10,6 +10,7 @@ Form: Visual Representation
 OriginSource: "Lecture Notes"
 image: "322-a.png"
 Mapping:
+  0
 ---
 ### Images
 <img src="/assets/images/nm/322-b.png" class="ui fluid bordered image">
