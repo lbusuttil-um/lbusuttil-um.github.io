@@ -8,7 +8,7 @@ Topic: Conceptual modeling
 Domain: Computer Science (except DB)
 Form: Database Analogies
 OriginSource: "Casteel, J. (2015 , September). Oracle 12c. 3 ed. Mason, OH: CENGAGE Learning Custom Publishing."
-image: "395.png"
+image: "395.jpg"
 Mapping:
   table :  spreadsheet
 ---
